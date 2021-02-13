@@ -6,7 +6,7 @@ f.close()'''
 # writing in a file (append mode)
 f = open("G:\\funny.txt", "a")
 for i in range(50):
-    f.write("Anika loves you, Rajib \n")
+    f.write("A***a loves you, Rajib \n")
 f.close()
 # Reading a file
 f = open("G:\\funny.txt", 'r')
